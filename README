@@ -1,0 +1,6 @@
+Bugsense
+
+Exception tracking using bugsense.com (for KohanaPHP 2.x)
+
+Clone into yout modules directory (as bugsense) and then enable the module in your application/config/config.php
+Then copy config/bugsense.php and specify your api.key
