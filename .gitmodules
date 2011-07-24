@@ -1,0 +1,3 @@
+[submodule "libraries/bugsense-php"]
+	path = libraries/bugsense-php
+	url = git://github.com/andyhot/bugsense-php.git
